@@ -1,5 +1,7 @@
 # Reproduction Steps
 
+Reference issue: https://github.com/facebook/react-native/issues/20772
+
 1. Install CocoaPods (`gem install cocoapods`)
 2. Clone this repo and `cd` into the directory
 3. Run `pod install`
